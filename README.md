@@ -1,4 +1,4 @@
-Online lab assignment “Decision Trees”
+                                                  Online lab assignment “Decision Trees”
 Pre-requisite to carrying out the assignment:
 1. Go through and watch all the lectures & lab tutorials of modules 8&9:
 2. Download the student performance dataset, which is available on the UC Irvine machine learning repository at https://archive.ics.uci.edu/ml/datasets/student+performance.
